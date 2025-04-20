@@ -15,7 +15,7 @@ An innovative subscription-based library system designed for educational institu
 | *Tailwind CSS*| Utility-first CSS framework for rapid UI styling                            |
 | *Node.js*     | Server-side JavaScript runtime                                              |
 | *Express.js*  | Web framework for backend routing and API handling                          |
-| *MongoDB*     | NoSQL database for user, book, and transaction data                         |
+| *MongoDB*     | NoSQL database for user, book, and transaction data   (Future Addition)                      |
 
 ---
 
